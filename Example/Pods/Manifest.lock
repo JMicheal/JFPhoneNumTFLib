@@ -1,0 +1,16 @@
+PODS:
+  - JFPhoneNumTFLib (0.1.0)
+
+DEPENDENCIES:
+  - JFPhoneNumTFLib (from `../`)
+
+EXTERNAL SOURCES:
+  JFPhoneNumTFLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JFPhoneNumTFLib: ef3fb7dcffb1c8ca74a74fb41b0c71255846e40d
+
+PODFILE CHECKSUM: 768e316586f1a739e1936a95271f00241b1229dd
+
+COCOAPODS: 1.2.1

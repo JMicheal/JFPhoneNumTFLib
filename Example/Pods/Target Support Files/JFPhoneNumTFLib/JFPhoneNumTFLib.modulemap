@@ -1,0 +1,6 @@
+framework module JFPhoneNumTFLib {
+  umbrella header "JFPhoneNumTFLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
