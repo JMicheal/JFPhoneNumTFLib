@@ -22,7 +22,7 @@ pod 'JFPhoneNumTFLib'
 
 ## Author
 
-lannikeng@163.com, jiangfan3@staff.sina.com.cn
+lannikeng, lannikeng@163.com
 
 ## License
 
