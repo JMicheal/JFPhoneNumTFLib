@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JFPhoneNumTFLib_Example' do
+  pod 'JFPhoneNumTFLib', :path => '../'
+
+  target 'JFPhoneNumTFLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
