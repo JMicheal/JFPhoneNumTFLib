@@ -2,8 +2,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JFPhoneNumTFLib'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of JFPhoneNumTFLib.'
+  s.version          = '0.1.1'
+  s.summary          = 'JFPhoneNumTFLib.'
 
   s.homepage         = 'https://github.com/MichealFan/JFPhoneNumTFLib'
 
@@ -13,8 +13,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = "JFPhoneNumTFLib/*.{h,m}"
-  #s.source_files = 'JFPhoneNumTFLib/Classes/**/*'
+  s.source_files = 'JFPhoneNumTFLib/Classes/**/*'
   # s.resource_bundles = {
   #   'JFPhoneNumTFLib' => ['JFPhoneNumTFLib/Assets/*.png']
   # }
